@@ -1,6 +1,6 @@
 git clone https://github.com/Mr-mafia07/Clon3
 
-cd clon3
+cd Clon3
 
 pip install -r requirements.txt
 
